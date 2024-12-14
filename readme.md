@@ -1,3 +1,10 @@
+# Resume-Job Matching Project
+
+This project involves building a web application that matches resumes to job descriptions using machine learning. Below is the directory structure of the project:
+
+## Directory Structure
+
+```plaintext
 resume-job-matching/
 ├── data/                     # Directory to store raw and processed data
 │   ├── resumes/              # Raw resumes (PDFs or text files)
